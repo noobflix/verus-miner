@@ -3,6 +3,10 @@ SISTEMA 64BITS
 
 pkg install wget -y ; pkg install wget proot -y && wget https://raw.githubusercontent.com/MasterDevX/KaliTermux/master/InstallKali.sh && bash InstallKali.sh
 
+OU
+
+
+apt update -y ; apt upgrade -y ; apt-get update -y ; apt-get upgrade-y ; pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash ; ./start-ubuntu.sh
 
 INSTALAR MINERARDOR
 
